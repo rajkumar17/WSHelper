@@ -1,0 +1,18 @@
+{
+    "id": 4,
+    "title": "Say Hello Around the World",
+    "terms": [
+        {
+            "term": "Hello (French)",
+            "definition": "Bonjour"
+        },
+        {
+            "term": "Hello (Spanish)",
+            "definition": "Hola"
+        },
+        {
+            "term": "Hello (Swedish)",
+            "definition": "Hallå"
+        }
+    ]
+}

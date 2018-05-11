@@ -1,0 +1,406 @@
+{
+    "id": 2,
+    "title": "German/English: Common verbs",
+    "terms": [
+        {
+            "term": "sein",
+            "definition": "to be"
+        },
+        {
+            "term": "haben",
+            "definition": "to have"
+        },
+        {
+            "term": "werden",
+            "definition": "to become"
+        },
+        {
+            "term": "können",
+            "definition": "can"
+        },
+        {
+            "term": "müssen",
+            "definition": "must"
+        },
+        {
+            "term": "sagen",
+            "definition": "to say"
+        },
+        {
+            "term": "machen",
+            "definition": "to do, make"
+        },
+        {
+            "term": "geben",
+            "definition": "to give"
+        },
+        {
+            "term": "kommen",
+            "definition": "to come"
+        },
+        {
+            "term": "sollen",
+            "definition": "should, ought to"
+        },
+        {
+            "term": "wollen",
+            "definition": "to want"
+        },
+        {
+            "term": "gehen",
+            "definition": "to go"
+        },
+        {
+            "term": "wissen",
+            "definition": "to know"
+        },
+        {
+            "term": "sehen",
+            "definition": "to see"
+        },
+        {
+            "term": "lassen",
+            "definition": "to let, allow, have done"
+        },
+        {
+            "term": "stehen",
+            "definition": "to stand"
+        },
+        {
+            "term": "finden",
+            "definition": "to find"
+        },
+        {
+            "term": "bleiben",
+            "definition": "to stay, remain"
+        },
+        {
+            "term": "liegen",
+            "definition": "to lie, be lying"
+        },
+        {
+            "term": "heißen",
+            "definition": "to be called"
+        },
+        {
+            "term": "denken",
+            "definition": "to think"
+        },
+        {
+            "term": "nehmen",
+            "definition": "to take"
+        },
+        {
+            "term": "tun",
+            "definition": "to do"
+        },
+        {
+            "term": "dürfen",
+            "definition": "may, to be allowed"
+        },
+        {
+            "term": "glauben",
+            "definition": "to believe"
+        },
+        {
+            "term": "halten",
+            "definition": "to stop, hold"
+        },
+        {
+            "term": "nennen",
+            "definition": "to name, to call (a name)"
+        },
+        {
+            "term": "mögen",
+            "definition": "to like"
+        },
+        {
+            "term": "zeigen",
+            "definition": "to show"
+        },
+        {
+            "term": "führen",
+            "definition": "to lead"
+        },
+        {
+            "term": "sprechen",
+            "definition": "to speak"
+        },
+        {
+            "term": "bringen",
+            "definition": "to bring"
+        },
+        {
+            "term": "leben",
+            "definition": "to live"
+        },
+        {
+            "term": "fahren",
+            "definition": "to drive"
+        },
+        {
+            "term": "meinen",
+            "definition": "to think"
+        },
+        {
+            "term": "fragen",
+            "definition": "to ask"
+        },
+        {
+            "term": "kennen",
+            "definition": "to know (a person)"
+        },
+        {
+            "term": "gelten",
+            "definition": "to be valid"
+        },
+        {
+            "term": "stellen",
+            "definition": "to place, set"
+        },
+        {
+            "term": "spielen",
+            "definition": "to play"
+        },
+        {
+            "term": "arbeiten",
+            "definition": "to work"
+        },
+        {
+            "term": "brauchen",
+            "definition": "to need"
+        },
+        {
+            "term": "folgen",
+            "definition": "to follow"
+        },
+        {
+            "term": "lernen",
+            "definition": "to learn"
+        },
+        {
+            "term": "bestehen",
+            "definition": "to exist, insist, pass (an exam)"
+        },
+        {
+            "term": "verstehen",
+            "definition": "to understand"
+        },
+        {
+            "term": "setzen",
+            "definition": "to set, put, place"
+        },
+        {
+            "term": "bekommen",
+            "definition": "to get, receive"
+        },
+        {
+            "term": "beginnen",
+            "definition": "to begin"
+        },
+        {
+            "term": "erzählen",
+            "definition": "to narrate, tell"
+        },
+        {
+            "term": "versuchen",
+            "definition": "attempt"
+        },
+        {
+            "term": "schreiben",
+            "definition": "to write"
+        },
+        {
+            "term": "laufen",
+            "definition": "to run"
+        },
+        {
+            "term": "erklären",
+            "definition": "to explain"
+        },
+        {
+            "term": "entsprechen",
+            "definition": "to correspond"
+        },
+        {
+            "term": "sitzen",
+            "definition": "to sit"
+        },
+        {
+            "term": "ziehen",
+            "definition": "to pull, move"
+        },
+        {
+            "term": "scheinen",
+            "definition": "to shine, seem, appear"
+        },
+        {
+            "term": "fallen",
+            "definition": "to fall"
+        },
+        {
+            "term": "gehören",
+            "definition": "to belong"
+        },
+        {
+            "term": "entsehen",
+            "definition": "to originate, develop"
+        },
+        {
+            "term": "erhalten",
+            "definition": "to receive"
+        },
+        {
+            "term": "treffen",
+            "definition": "to meet"
+        },
+        {
+            "term": "suchen",
+            "definition": "to search, look for"
+        },
+        {
+            "term": "legen",
+            "definition": "to lay, put"
+        },
+        {
+            "term": "vorstellen",
+            "definition": "to introduce"
+        },
+        {
+            "term": "handeln",
+            "definition": "to deal, trade"
+        },
+        {
+            "term": "erreichen",
+            "definition": "to achieve, reach"
+        },
+        {
+            "term": "tragen",
+            "definition": "to deal, trade"
+        },
+        {
+            "term": "schaffen",
+            "definition": "to manage, create"
+        },
+        {
+            "term": "lesen",
+            "definition": "to read"
+        },
+        {
+            "term": "verlieren",
+            "definition": "to lose"
+        },
+        {
+            "term": "darstellen",
+            "definition": "to depict, portray"
+        },
+        {
+            "term": "erkennen",
+            "definition": "to recognize, admit"
+        },
+        {
+            "term": "entwickeln",
+            "definition": "to develop"
+        },
+        {
+            "term": "reden",
+            "definition": "to talk"
+        },
+        {
+            "term": "aussehen",
+            "definition": "to appear, look (a certain way)"
+        },
+        {
+            "term": "erschienen",
+            "definition": "to appear"
+        },
+        {
+            "term": "bilden",
+            "definition": "to form, educate"
+        },
+        {
+            "term": "anfangen",
+            "definition": "to begin"
+        },
+        {
+            "term": "erwarten",
+            "definition": "to expect"
+        },
+        {
+            "term": "wohnen",
+            "definition": "to live"
+        },
+        {
+            "term": "betreffen",
+            "definition": "to affect, concern"
+        },
+        {
+            "term": "warten",
+            "definition": "to wait"
+        },
+        {
+            "term": "vergehen",
+            "definition": "to elapse; to decay"
+        },
+        {
+            "term": "helfen",
+            "definition": "to help"
+        },
+        {
+            "term": "gewinnen",
+            "definition": "to win"
+        },
+        {
+            "term": "schließen",
+            "definition": "to close"
+        },
+        {
+            "term": "fühlen",
+            "definition": "to feel"
+        },
+        {
+            "term": "bieten",
+            "definition": "to offer"
+        },
+        {
+            "term": "interessieren",
+            "definition": "to interest"
+        },
+        {
+            "term": "erinnern",
+            "definition": "to remember"
+        },
+        {
+            "term": "ergeben",
+            "definition": "to result in"
+        },
+        {
+            "term": "anbieten",
+            "definition": "to offer"
+        },
+        {
+            "term": "studieren",
+            "definition": "to study"
+        },
+        {
+            "term": "verbinden",
+            "definition": "to connect, link"
+        },
+        {
+            "term": "ansehen",
+            "definition": "to look at, watch"
+        },
+        {
+            "term": "fehlen",
+            "definition": "to lack, be missing, be absent"
+        },
+        {
+            "term": "bedeuten",
+            "definition": "to mean"
+        },
+        {
+            "term": "vergleichen",
+            "definition": "to compare"
+        }
+    ]
+}
